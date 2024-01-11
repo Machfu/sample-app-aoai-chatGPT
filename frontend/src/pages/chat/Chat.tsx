@@ -592,7 +592,7 @@ const Chat = () => {
                                     aria-hidden="true"
                                 />
                                 <h1 className={styles.chatEmptyStateTitle}>Machfu Knowledge Base</h1>
-                                <h2 className={styles.chatEmptyStateSubtitle}>Ask questions on product manuals, user guides, technical memos etc.</h2>
+                                <h2 className={styles.chatEmptyStateSubtitle}>Ask questions about product manuals, user guides, technical memos etc.</h2>
                             </Stack>
                         ) : (
                             <div className={styles.chatMessageStream} style={{ marginBottom: isLoading ? "40px" : "0px" }} role="log">
