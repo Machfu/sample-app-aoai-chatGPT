@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/589b6a81-438e-4671-99fe-ac38b6b17947/resourceGroups/AzureAIMachfu/providers/Microsoft.Web/sites/machfukb",
+    "appService.deploySubpath": "."
+}
